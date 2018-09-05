@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">sept4try</string>
+    <string name="label_ip">IP Address</string>
+    <string name="ip">14.139.54.203</string>
+    <string name="label_port">Port</string>
+    <string name="port">5077</string>
+    <string name="btn">Send</string>
+    <string name="msg">Sending Packets</string>
+    <string name="title_activity_send_to_uri">sendtouri</string>
+</resources>
